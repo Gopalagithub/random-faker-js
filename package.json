@@ -6,7 +6,7 @@
         "search tags"
     ],
     "scripts": {
-        "publish": "git push --tags && npm publish"
+        "publisher": "git push --tags && npm publish"
     },
     "repository": {
         "type": "git",
