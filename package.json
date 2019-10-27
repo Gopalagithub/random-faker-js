@@ -1,0 +1,25 @@
+{
+    "name": "random-faker-js",
+    "version": "1.0.0",
+    "description": "A description to show on NPM",
+    "keywords": ["search tags"],
+    "scripts": {
+        "publish": "git push --tags && npm publish"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gopalagithub/random-faker-js.git"
+    },
+    "license": "MIT",
+    "main": "./dist/index.js",
+    "module": "./dist/index.mjs",
+    "types": "./dist/index.d.ts",
+    "author": {
+        "name": "Gopala Krishna Shetty S",
+        "email": "s.gopalakrishnashetty@gmail.com",
+        "url": "https://medium.com/@s.gopalakrishnashetty"
+    },
+    "sideEffects": false,
+    "devDependencies": {},
+    "dependencies": {}
+}
